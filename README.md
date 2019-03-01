@@ -1,2 +1,2 @@
 # CaixaSupermercado
-Caixa de Supermercado com erros
+Caixa de Supermercado simples
